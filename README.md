@@ -4,6 +4,12 @@
 
 > Sistem POS berbasis web untuk operasional restoran atau kafe dari transaksi sampai pengelolaan stok.
 
+## Preview
+
+![Halaman login POS Java Turtle](assets/img/pic/login.png)
+
+*Screenshot halaman login yang sudah tersedia di repository. Tidak menampilkan transaksi, akun, atau mengakses database produksi.*
+
 ## Tentang proyek
 
 Sistem POS berbasis web untuk operasional restoran atau kafe dari transaksi sampai pengelolaan stok. Dokumentasi ini dibuat sebagai panduan singkat untuk memahami ruang lingkup proyek, menjalankannya secara lokal, dan membaca batasan penggunaannya.
